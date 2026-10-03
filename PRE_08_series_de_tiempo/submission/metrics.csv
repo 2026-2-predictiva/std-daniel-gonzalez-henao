@@ -1,0 +1,5 @@
+Metrics,yt_pred_trend,yt_pred_trend_month,yt_pred_trend_sincos,yt_pred_log_trend_month,yt_pred_ar,yt_pred_d1d12_ar,yt_pred_mlp,yt_pred_sarima,yt_pred_holt_winters
+MSE Train,376582.81,103217.67,111966.93,99264.28,50533.08,46784.99,126590.2,57331.27,49179.33
+MSE Test,1146851.21,738282.04,754794.64,369934.77,92327.44,132232.41,354554.33,140040.0,201970.56
+MAE Train,459.62,259.03,271.17,237.83,160.48,159.49,252.74,174.32,163.07
+MAE Test,781.18,804.13,804.82,539.29,224.08,286.58,443.28,304.02,348.65
